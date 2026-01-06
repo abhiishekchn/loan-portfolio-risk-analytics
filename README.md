@@ -79,7 +79,6 @@ Align approvals with risk appetite by adding safeguards like higher collateral, 
 │   └── screenshots/
 │       ├── page1.png
 │       └── page2.png
-└── data_dictionary.md
 
 Note:
 The `analysis_queries.sql` file contains the finalized, production-ready queries used for dashboarding and business insights.  
