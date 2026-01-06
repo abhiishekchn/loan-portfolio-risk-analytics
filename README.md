@@ -31,6 +31,30 @@ Primary and foreign keys were defined to maintain referential integrity, ensurin
 - Loan Defaults  
 - Risk Assessment
 
+## Dashboard Overview
+
+The Power BI dashboard is structured into two pages, each serving a distinct analytical purpose.
+
+### Page 1: Portfolio Risk Overview
+This page provides an executive-level snapshot of the loan portfolio. It highlights portfolio size, approval and default rates, and exposure concentration across risk segments. The focus is on understanding how risky the portfolio is and where the bank’s outstanding exposure is concentrated.
+
+### Page 2: Risk Drivers & Decision Quality
+This page dives deeper into the drivers behind portfolio risk. It analyzes default behavior across loan tenure and loan types, evaluates approval versus rejection patterns by risk category, and examines delinquency severity to identify early warning signals before default.
+
+## Key Insights
+
+1. Portfolio risk is concentrated in specific segments rather than being evenly spread across the portfolio. Defaults are disproportionately higher in lower credit score segments, while a significant portion of outstanding exposure is associated with loans already showing delinquency signals. This indicates concentration risk rather than broad-based portfolio deterioration.
+
+2. Loan tenure has a noticeable impact on default behavior. Longer-tenure loans show higher default risk compared to short- and mid-term loans, suggesting that extended repayment horizons increase the likelihood of payment stress over time.
+
+3. Default risk remains broadly consistent across loan categories, making default rates an unreliable indicator of relative loan performance.
+
+4. Approval volumes remain significant even within higher-risk categories. While rejection rates increase with risk, a meaningful number of high-risk applications are still approved, indicating potential trade-offs between growth and risk control in lending decisions.
+
+
+
+
+
   
 
 
