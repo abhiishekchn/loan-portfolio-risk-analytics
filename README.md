@@ -80,6 +80,9 @@ Align approvals with risk appetite by adding safeguards like higher collateral, 
 │       └── page2.png
 └── data_dictionary.md
 
+Note: Multiple exploratory and validation queries were used during analysis.
+The SQL files included here contain only the finalized queries that directly support the dashboard visuals and business insights.
+
 ```
 
 ## Dashboard Preview
