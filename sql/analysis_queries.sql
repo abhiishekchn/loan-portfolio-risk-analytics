@@ -1,6 +1,5 @@
 -- =============================================
 -- Bank Loan Portfolio Risk Analytics
--- Final Analysis Queries
 -- =============================================
 -- This file contains the finalized SQL queries
 -- used to build the Power BI dashboard and
