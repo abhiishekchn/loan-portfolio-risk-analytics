@@ -73,15 +73,18 @@ Align approvals with risk appetite by adding safeguards like higher collateral, 
 ├── data_model/
 │   └── er_diagram.pdf
 ├── sql/
-│   └── analysis_queries.sql
+│   ├── analysis_queries.sql
+│   └── exploratory_queries.sql
 ├── powerbi/
 │   └── screenshots/
 │       ├── page1.png
 │       └── page2.png
 └── data_dictionary.md
 
-Note: Multiple exploratory and validation queries were used during analysis.
-The SQL files included here contain only the finalized queries that directly support the dashboard visuals and business insights.
+Note:
+The `analysis_queries.sql` file contains the finalized, production-ready queries used for dashboarding and business insights.  
+An additional `exploratory_queries.sql` file is included for reference, containing exploratory and validation queries used during the analysis process.
+
 
 ```
 
