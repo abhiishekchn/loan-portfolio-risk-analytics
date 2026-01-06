@@ -10,6 +10,12 @@ The analysis focuses on:
 - Assessing whether loan approval decisions are aligned with underlying risk levels
 - Highlighting early warning signals that appear before loans move into default
 
+## Tools & Technologies Used
+
+- **Excel** – Used for initial data review, understanding the dataset structure, and creating a data dictionary  
+- **SQL** – Used for database design, joins, aggregations, cte, subquery and multi-layer analysis of loan risk and performance  
+- **Power BI** – Used to build interactive dashboards for portfolio-level overview and diagnostic analysis  
+
 
 
 
