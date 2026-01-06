@@ -51,6 +51,37 @@ This page dives deeper into the drivers behind portfolio risk. It analyzes defau
 
 4. Approval volumes remain significant even within higher-risk categories. While rejection rates increase with risk, a meaningful number of high-risk applications are still approved, indicating potential trade-offs between growth and risk control in lending decisions.
 
+5. Payment delinquency emerges as a strong early warning signal for default. Loans with higher delay severity show a clear increase in default incidence, indicating that monitoring payment behavior can help identify stressed accounts well before formal default occurs.
+
+## Business Recommendations
+
+1. Tighten controls where risk is concentrated  
+Focus on credit score bands and early delinquency accounts with closer monitoring, adjusted limits, and proactive action.
+
+2. Re-think long-tenure loans  
+Longer repayment periods carry higher risk — apply stricter eligibility, risk-based pricing, and stronger review checks.
+
+3. Strengthen approvals for high-risk cases  
+Align approvals with risk appetite by adding safeguards like higher collateral, premium pricing, or secondary sign-offs.
+
+## Project Structure
+
+```text
+
+├── README.md
+├── sql/
+│   ├── schema.sql
+│   └── analysis_queries.sql
+├── powerbi/
+│   ├── dashboard.pbix
+│   └── screenshots/
+│       ├── page1.png
+│       └── page2.png
+└── data_dictionary.md
+
+
+
+
 
 
 
