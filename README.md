@@ -79,6 +79,8 @@ Align approvals with risk appetite by adding safeguards like higher collateral, 
 │       └── page2.png
 └── data_dictionary.md
 
+```
+
 ## Dashboard Preview
 
 ### Page 1: Portfolio Risk Overview
@@ -86,6 +88,16 @@ Align approvals with risk appetite by adding safeguards like higher collateral, 
 
 ### Page 2: Risk Drivers & Decision Quality
 ![Risk Drivers & Decision Quality](powerbi/screenshots/page2.png)
+
+## Assumptions & Notes
+
+- The analysis is based on past loan, payment, and default records.
+
+- Default rates are treated as general signs of risk, not exact predictions.
+
+- We assume all loan types were approved under similar rules.
+
+- The findings depend on the data available and the level of detail it provides.
 
 
 
