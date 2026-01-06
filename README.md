@@ -79,6 +79,15 @@ Align approvals with risk appetite by adding safeguards like higher collateral, 
 │       └── page2.png
 └── data_dictionary.md
 
+## Dashboard Preview
+
+### Page 1: Portfolio Risk Overview
+![Portfolio Risk Overview](powerbi/screenshots/page1.png)
+
+### Page 2: Risk Drivers & Decision Quality
+![Risk Drivers & Decision Quality](powerbi/screenshots/page2.png)
+
+
 
 
 
