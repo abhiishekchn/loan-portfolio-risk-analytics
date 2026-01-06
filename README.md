@@ -16,6 +16,24 @@ The analysis focuses on:
 - **SQL** – Used for database design, joins, aggregations, cte, subquery and multi-layer analysis of loan risk and performance  
 - **Power BI** – Used to build interactive dashboards for portfolio-level overview and diagnostic analysis  
 
+## Data Model Overview
+
+The analysis is built on a relational data model designed to reflect a real-world bank lending workflow. The dataset consists of multiple related tables covering customers, loan applications, approved loans, payments, defaults, and risk assessments.
+
+Primary and foreign keys were defined to maintain referential integrity, ensuring consistency across customer, loan, and payment records. An ER diagram was created before analysis to validate table relationships and data flow.
+
+### Core Tables
+
+- Customers  
+- Loan Applications  
+- Loans  
+- Payments  
+- Loan Defaults  
+- Risk Assessment
+
+  
+
+
 
 
 
