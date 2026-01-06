@@ -70,11 +70,11 @@ Align approvals with risk appetite by adding safeguards like higher collateral, 
 ```text
 
 ├── README.md
+├── data_model/
+│   └── er_diagram.pdf
 ├── sql/
-│   ├── schema.sql
 │   └── analysis_queries.sql
 ├── powerbi/
-│   ├── dashboard.pbix
 │   └── screenshots/
 │       ├── page1.png
 │       └── page2.png
