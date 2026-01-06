@@ -18,7 +18,8 @@ The analysis focuses on:
 
 ## Data Model Overview
 
-The database schema and table relationships are documented in the ER diagram available [here](data_model/BLP ERR DI.pdf).
+The database schema and table relationships are documented in the ER diagram available [here](data_model/err_diagram.pdf).
+).
 
 Primary and foreign keys were defined to maintain referential integrity, ensuring consistency across customer, loan, and payment records. An ER diagram was created before analysis to validate table relationships and data flow.
 
