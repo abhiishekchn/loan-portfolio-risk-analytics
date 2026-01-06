@@ -18,7 +18,7 @@ The analysis focuses on:
 
 ## Data Model Overview
 
-The analysis is built on a relational data model designed to reflect a real-world bank lending workflow. The dataset consists of multiple related tables covering customers, loan applications, approved loans, payments, defaults, and risk assessments.
+The database schema and table relationships are documented in the ER diagram available [here](data_model/er_diagram.pdf).
 
 Primary and foreign keys were defined to maintain referential integrity, ensuring consistency across customer, loan, and payment records. An ER diagram was created before analysis to validate table relationships and data flow.
 
